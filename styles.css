@@ -1,0 +1,142 @@
+body {
+    background-color: #faf5f5;
+    font-family: "Montserrat", sans-serif;
+    line-height: normal;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    justify-content: left;
+    margin: 0 auto;
+    background: #FFF;
+    box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+.general {
+    padding-left: 30px;
+    padding-bottom: 15px;
+    margin-left:40px;
+}
+
+aside {
+    background: #023238;
+    width: 370px;
+    font-style: normal;
+    color: #FFF;
+}
+
+aside h2 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+aside p {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+aside li {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+aside ul li::marker {
+    color: #FB6D3A;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+aside a {
+    opacity: 0.5;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+
+aside div {
+    padding: 10px 10px 10px 40px;
+}
+
+h1 {
+    color: #000;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.main-description h2 {
+    color: #1E2939;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 50px;
+
+}
+
+main h2 {
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+
+}
+
+.main-description p {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 700px;
+    text-align: justify;
+}
+
+main li a {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.education h3 {
+    color: #000;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.education h4 {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.education p {
+    color: #A8A8A8;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.experience h3 {
+    color: #000;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.experience p{
+    color: #A8A8A8;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.experience ul{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; 
+    width: 600px;
+}
