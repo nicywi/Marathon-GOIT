@@ -14,12 +14,6 @@ body {
     box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.10);
 }
 
-.general {
-    padding-left: 30px;
-    padding-bottom: 15px;
-    margin-left:40px;
-}
-
 aside {
     background: #023238;
     width: 370px;
@@ -103,6 +97,12 @@ main li a {
     line-height: 24px;
 }
 
+.general {
+    padding-left: 30px;
+    padding-bottom: 15px;
+    margin-left:40px;
+}
+
 .education h3, .experience h3  {
     color: #000;
     font-size: 16px;
@@ -127,4 +127,8 @@ main li a {
     font-weight: 400;
     line-height: 24px; 
     width: 600px;
+}
+
+img {
+    margin-top: 25px;
 }
